@@ -1,0 +1,25 @@
+{
+    "id": "780F445E",
+    "path": "~/GitHub/SCM-Analytics/SCMAnalytics/R/DemandForecast.R",
+    "project_path": "R/DemandForecast.R",
+    "type": "r_source",
+    "hash": "2680372631",
+    "contents": "",
+    "dirty": false,
+    "created": 1610293133316.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "cursorPosition": "76,13",
+        "scrollLine": "58"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1610323079,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1610323079996,
+    "read_only": false,
+    "read_only_alternatives": []
+}
